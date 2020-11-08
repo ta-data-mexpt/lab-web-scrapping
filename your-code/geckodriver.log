@@ -1,0 +1,36 @@
+1604806516346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofile1tlu7X"
+*** You are running in headless mode.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604806518045	Marionette	INFO	Listening on port 59498
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604806518476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604806559319	Marionette	INFO	Stopped listening on port 59498
+1604806583247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileR45zpG"
+*** You are running in headless mode.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604806584872	Marionette	INFO	Listening on port 59624
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604806585377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604806601418	Marionette	INFO	Stopped listening on port 59624
+1604808439794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofile4TCa8y"
+*** You are running in headless mode.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604808441634	Marionette	INFO	Listening on port 60626
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604808441934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604808457880	Marionette	INFO	Stopped listening on port 60626
