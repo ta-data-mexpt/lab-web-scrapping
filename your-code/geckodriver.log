@@ -34,3 +34,498 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 [GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
 1604808441934	Marionette	WARN	TLS certificate errors will be ignored for this session
 1604808457880	Marionette	INFO	Stopped listening on port 60626
+1604878395681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileUsXwdD"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604878397642	Marionette	INFO	Listening on port 56270
+1604878397828	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604878475856	Marionette	INFO	Stopped listening on port 56270
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604878588166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileSIrknp"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604878590203	Marionette	INFO	Listening on port 56434
+1604878590326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604878594947	Marionette	INFO	Stopped listening on port 56434
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604878629794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileZ80zd6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604878631800	Marionette	INFO	Listening on port 56529
+1604878631978	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604878636556	Marionette	INFO	Stopped listening on port 56529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879415731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilenkH3y8"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604879418196	Marionette	INFO	Listening on port 57118
+1604879418477	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879424213	Marionette	INFO	Stopped listening on port 57118
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879702660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileBRMfBI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879704433	Marionette	INFO	Listening on port 57367
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879704790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604879709619	Marionette	INFO	Stopped listening on port 57367
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879860889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilecUHeoq"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604879862713	Marionette	INFO	Listening on port 57510
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879863032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604879867649	Marionette	INFO	Stopped listening on port 57510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879896966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilejCe2xw"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604879898732	Marionette	INFO	Listening on port 57587
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879899111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604879904528	Marionette	INFO	Stopped listening on port 57587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879931955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileIO12aB"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604879933924	Marionette	INFO	Listening on port 57669
+1604879934088	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879939040	Marionette	INFO	Stopped listening on port 57669
+[Child 11464, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Parent 21060, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604879973263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileuqFSJK"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604879975104	Marionette	INFO	Listening on port 57751
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604879975411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604879989795	Marionette	INFO	Stopped listening on port 57751
+[Parent 2996, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604880420400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilecxf24C"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604880422290	Marionette	INFO	Listening on port 58103
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604880422556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604880441185	Marionette	INFO	Stopped listening on port 58103
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604880481427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofile8QyQDI"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604880483261	Marionette	INFO	Listening on port 58214
+1604880483561	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 41824, MediaDecoderStateMachine #1] WARNING: Decoder=142e1475800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1604880592696	Marionette	INFO	Stopped listening on port 58214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604881522741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilerM2wm6"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604881524758	Marionette	INFO	Listening on port 58862
+1604881524873	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 45304, MediaDecoderStateMachine #1] WARNING: Decoder=160c9516000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+1604881632745	Marionette	INFO	Stopped listening on port 58862
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604881829050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileGl9D61"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604881831000	Marionette	INFO	Listening on port 59146
+1604881831180	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604881835562	Marionette	INFO	Stopped listening on port 59146
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604882022159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofilegQP2X4"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604882024027	Marionette	INFO	Listening on port 59339
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882024300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604882029952	Marionette	INFO	Stopped listening on port 59339
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 61004, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+[Child 61004, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604882043195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileNGdZyU"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882044918	Marionette	INFO	Listening on port 59429
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882045326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604882049776	Marionette	INFO	Stopped listening on port 59429
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604882247302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileb7g2gg"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604882249129	Marionette	INFO	Listening on port 59607
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882249429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604882254140	Marionette	INFO	Stopped listening on port 59607
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1604882287465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--ignore-certificate-errors" "--incognito" "-foreground" "-no-remote" "-profile" "C:\\Users\\ANALYT~1\\AppData\\Local\\Temp\\rust_mozprofileO4qrLW"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882289328	Marionette	INFO	Listening on port 59708
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1604882289604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604882295025	Marionette	INFO	Stopped listening on port 59708
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
